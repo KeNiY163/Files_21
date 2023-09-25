@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "brand": "BMW",
+    "model": "X3",
+    "country": "German",
+    "year": 2017,
+    "price": 4572114
+  },
+  {
+    "id": 2,
+    "brand": "Audi",
+    "model": "R7",
+    "country": "England",
+    "year": 2019,
+    "price": 5411667
+  },
+  {
+    "id": 3,
+    "brand": "Moskvich",
+    "model": "3",
+    "country": "Russia",
+    "year": 2022,
+    "price": 2750400
+  },
+  {
+    "id": 4,
+    "brand": "Zekkr",
+    "model": "Z1",
+    "country": "China",
+    "year": 2023,
+    "price": 13487754
+  }
+]
